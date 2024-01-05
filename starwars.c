@@ -1,0 +1,53 @@
+static const note_t starWarsTheme[] = { 
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_F4, QUARTER },
+  { PITCH_C5, EIGHTH },
+  { PITCH_A4, EIGHTH },
+
+  { PITCH_G4, HALF },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, HALF },
+
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_F4, QUARTER },
+  { PITCH_C5, EIGHTH },
+  { PITCH_A4, EIGHTH },
+
+  { PITCH_G4, HALF },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, HALF },
+
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_F4, QUARTER },
+  { PITCH_C5, EIGHTH },
+  { PITCH_A4, EIGHTH },
+
+  { PITCH_G4, HALF },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, EIGHTH },
+  { PITCH_F4, EIGHTH },
+  { PITCH_G4, QUARTER },
+
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_A4, EIGHTH },
+  { PITCH_F4, QUARTER },
+  { PITCH_C5, EIGHTH },
+  { PITCH_A4, EIGHTH },
+
+  { PITCH_G4, HALF },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, EIGHTH },
+  { PITCH_E4, HALF },
+
+  { PITCH_END, 0 }
+};
